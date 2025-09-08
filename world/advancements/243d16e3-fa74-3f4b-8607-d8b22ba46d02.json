@@ -8588,5 +8588,311 @@
     },
     "done": true
   },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brown_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "create:display_link": {
+    "criteria": {
+      "0": "2025-09-07 22:28:51 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematicannon": {
+    "criteria": {
+      "has_item": "2025-09-07 22:04:40 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/orange_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_table": {
+    "criteria": {
+      "has_item": "2025-09-07 22:04:40 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/yellow_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/red_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cyan_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-09-07 22:27:31 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-09-07 22:06:11 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -5967,5 +5967,23 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-09-07 22:12:02 -0300"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/soulbound": {
+    "criteria": {
+      "item": "2025-09-07 22:51:59 -0300"
+    },
+    "done": true
+  },
+  "create:linked_controller": {
+    "criteria": {
+      "0": "2025-09-07 22:39:17 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
