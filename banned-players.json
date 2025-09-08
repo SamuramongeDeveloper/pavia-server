@@ -1,0 +1,18 @@
+[
+  {
+    "uuid": "77fbd36d-0b48-3a2b-9955-844a59658dd3",
+    "name": "5eyf",
+    "created": "2025-09-02 10:00:47 -0300",
+    "source": "Slsanji",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "bde4b591-ee0e-36f8-8456-4c41a4f72d88",
+    "name": "Scammers",
+    "created": "2025-09-03 07:30:17 -0300",
+    "source": "SamuramongeDev",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
